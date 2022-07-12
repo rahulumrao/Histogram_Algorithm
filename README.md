@@ -13,6 +13,7 @@
 #! EACH BIN INDEX HAS A CORRESPONDING POSITION AND IT DOSEN'T MATTER IF THE POSITIONS ARE
 #! EVENELY DISTRIBUTED OR ODDLY AND OR EVEN/ODD, THIS ALGORITH WILL WORK FOR ANY CASE
 #! 
-// WRITTEN BY :: Rahul Verma (vrahul@iitk.ac.in)
-#!====================================================================================================+!
-#! 
+```
+WRITTEN BY :: Rahul Verma (vrahul@iitk.ac.in)
+```
+#!================================================================================================+!
